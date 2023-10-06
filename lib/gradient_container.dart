@@ -20,7 +20,7 @@ class GradientContainer extends StatefulWidget {
 
 class _GradientContainerState extends State<GradientContainer> {
   final Color color1 = Colors.green;
-  final Color color2 = Colors.greenAccent;
+  final Color color2 = Colors.deepPurple;
   final List<String> selectedAnswers = [];
   int activeScreen = 1;
 
