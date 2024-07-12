@@ -1,0 +1,24 @@
+{
+    "git.enableCommitSigning": false,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#d2e14b",
+        "activityBar.background": "#d2e14b",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#1b96a4",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#d2e14b",
+        "statusBar.background": "#c4d623",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#9caa1c",
+        "statusBarItem.remoteBackground": "#c4d623",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#c4d623",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#c4d62399",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#c4d623",
+    "cmake.sourceDirectory": "C:/Users/Davide/Documents/dev/flutter_projects/adv_basics/windows"
+}
